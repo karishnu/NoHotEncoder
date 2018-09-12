@@ -1,2 +1,4 @@
 .idea/
 nohotencoder/__pycache__
+NoHotEncoder.egg-info/
+dist/
