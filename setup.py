@@ -6,7 +6,7 @@ setup(
     author_email='karishnu@gmail.com',
     packages=['nohotencoder'],
     install_requires=['pandas'],
-    version='0.1',
+    version='0.3',
     license='MIT',
     description='Converts One Hot Encoding to Integer encoding',
     long_description=open('README.rst').read()
